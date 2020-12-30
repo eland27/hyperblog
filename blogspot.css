@@ -20,6 +20,15 @@ body {
     font-weight: bolder;
 }
 
+#footer {
+    padding: 0.1cm;
+    background: gray;
+    text-align: center;
+    color: white;
+    width: 79%;
+    margin: 0 auto;
+}
+
 #cabecera #tagline {
     
     font-weight: normal;
